@@ -1,3 +1,6 @@
+## Credit
+[Diki Ananta](https://github.com/dikiaap/dotfiles) - This is almost entirely based on his dotfiles
+
 ## Details
 
 - CLI
